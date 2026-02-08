@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+app/src/main/res/values/strings.xml
+git rm --cached app/src/main/res/values/strings.xml
