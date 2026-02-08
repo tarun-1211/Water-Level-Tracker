@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">मेरी लोकेशन</string>
+    <string name="btn_my_location">मेरी स्थिति</string>
+    <string name="legend">लीजेंड</string>
+    <string name="depth_less_5">५ मी से कम</string>
+    <string name="depth_5_10">५–१० मी</string>
+    <string name="depth_10_15">१०–१५ मी</string>
+    <string name="depth_greater_15">१५ मी से अधिक</string>
+    <string name="search_hint">गाँव या ज़िला खोजें</string>
+</resources>
